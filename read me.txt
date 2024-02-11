@@ -1,0 +1,8 @@
+1) Mortality_final Zerin is the dashboard in power Bi
+2) Mortality.csv is the dataset for Dashboard design
+3)Statistical analysis Zerin is the R file code for analysis part
+4) Datasets for statistical analysis are 
+	mortality analysis_2.csv
+	CVD.csv
+	bd_data_1.csv
+	suicide.csv
